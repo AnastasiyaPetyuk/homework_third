@@ -1,0 +1,14 @@
+D:\C#\homework_third\homework_third\bin\Debug\netcoreapp3.1\homework_third.exe
+D:\C#\homework_third\homework_third\bin\Debug\netcoreapp3.1\homework_third.deps.json
+D:\C#\homework_third\homework_third\bin\Debug\netcoreapp3.1\homework_third.runtimeconfig.json
+D:\C#\homework_third\homework_third\bin\Debug\netcoreapp3.1\homework_third.runtimeconfig.dev.json
+D:\C#\homework_third\homework_third\bin\Debug\netcoreapp3.1\homework_third.dll
+D:\C#\homework_third\homework_third\bin\Debug\netcoreapp3.1\homework_third.pdb
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.csproj.AssemblyReference.cache
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.AssemblyInfoInputs.cache
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.AssemblyInfo.cs
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.csproj.CoreCompileInputs.cache
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.dll
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.pdb
+D:\C#\homework_third\homework_third\obj\Debug\netcoreapp3.1\homework_third.genruntimeconfig.cache
